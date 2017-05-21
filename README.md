@@ -1,4 +1,4 @@
 eep-parent
 =============
 
-Parent POM file for NGBOSS EEP platform projects hold the properties, plugins which are required to build eep components, eep features and products.
+Parent POM file for NGBOSS DEEP (Digitial Ecosystem Engagement Platform) projects hold the properties, plugins which are required to build DEEP components, DEEP features and products.
